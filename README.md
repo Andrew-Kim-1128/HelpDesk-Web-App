@@ -28,16 +28,16 @@ It demonstrates:
 
 ## Current & Future Features
 
-User & Admin authentication (completed)
-Role-based permissions (completed)
-Ticket creation & management (completed)
-File attachments with validation (completed)
-MongoDB data persistence (completed)
-Automated timestamping (completed)
-UI/UX design & CSS (WIP)
-Discussion board (WIP)
-Automated SLA escalation + notifications (WIP)
-Ticket assignment system (WIP)
+- User & Admin authentication (completed)
+- Role-based permissions (completed)
+- Ticket creation & management (completed)
+- File attachments with validation (completed)
+- MongoDB data persistence (completed)
+- Automated timestamping (completed)
+- UI/UX design & CSS (WIP)
+- Discussion board (WIP)
+- Automated SLA escalation + notifications (WIP)
+- Ticket assignment system (WIP)
 
 ---
 
