@@ -12,7 +12,8 @@ A full-stack Helpdesk / Ticket Management Web Application built with:
 
 ## Overview
 
-This application allows users to create and manage support tickets while providing role-based access control for administrators and a root account.
+This application allows users to create and manage support tickets while providing role-based access control for administrators and a root account. 
+This project is a result of me trying to learn automation in a full-stack dev environment.
 
 It demonstrates:
 
@@ -22,6 +23,20 @@ It demonstrates:
 - File upload handling
 - Due date urgency tracking
 - Clean modular backend architecture
+
+---
+
+## Current & Future Features
+
+User & Admin authentication (completed)
+Role-based permissions (completed)
+Ticket creation & management (completed)
+File attachments with validation (completed)
+MongoDB data persistence (completed)
+Automated timestamping (completed)
+Discussion board (WIP)
+Automated SLA escalation + notifications (WIP)
+Ticket assignment system (WIP)
 
 ---
 
