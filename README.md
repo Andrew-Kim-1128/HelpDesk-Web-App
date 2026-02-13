@@ -47,7 +47,6 @@ It demonstrates:
 - Users authenticate via `/login`
 - Server returns a signed JWT
 - Token is stored in cookies
-- Axios interceptor automatically attaches:
 
 ### Roles
 - `user`: can create and manage their own tickets
