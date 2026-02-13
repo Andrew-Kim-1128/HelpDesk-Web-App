@@ -49,8 +49,6 @@ It demonstrates:
 - Token is stored in cookies
 - Axios interceptor automatically attaches:
 
-Authorization: Bearer <Token>
-
 ### Roles
 - `user`: can create and manage their own tickets
 - `admin`: can manage all tickets
